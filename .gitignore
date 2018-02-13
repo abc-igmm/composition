@@ -1,0 +1,19 @@
+## files
+.DS_Store
+.Rhistory
+._.DS_Store
+.tramp_history
+*.pdf
+*.html
+# *.md
+
+## directories
+cache/
+stage/
+figCache/
+data/
+eddie/
+md/.bak
+out/.bak
+out/pdf
+out/rds
