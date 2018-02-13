@@ -6,7 +6,8 @@ author: |
     | Gil Tomás
     | gil.tomas@igmm.ed.ac.uk
 output:
-    github_document:
+    md_document:
+        variant: markdown_github
         toc: true
         toc_depth: 2
         df_print: paged
@@ -68,6 +69,10 @@ set.seed(42)
 
 ```{r}
 qplot(1)
+```
+
+```{r}
+kable(mtcars)
 ```
 
 ->
