@@ -1,3 +1,9 @@
+Subtype-aware batch correction retains biological signal of integrated
+breast cancer datasets---Supplementary Methods
+================
+Gil Tomás
+<gil.tomas@igmm.ed.ac.uk>
+
 ``` r
 library(data.table)  # data frame manipulation
 library(oligo)  # preprocessing oligonucleotide arrays
@@ -79,5 +85,3 @@ kable(mtcars)
 | Ferrari Dino        |  19.7|    6|  145.0|  175|  3.62|  2.770|  15.50|    0|    1|     5|     6|
 | Maserati Bora       |  15.0|    8|  301.0|  335|  3.54|  3.570|  14.60|    0|    1|     5|     8|
 | Volvo 142E          |  21.4|    4|  121.0|  109|  4.11|  2.780|  18.60|    1|    1|     4|     2|
-
--&gt;
