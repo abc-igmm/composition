@@ -35,6 +35,7 @@ library(ggsignif)   # significance bars for ggplot2
 library(irr)        # Cohen's Kappa
 library(knitr)      # kable function for tables
 library(kableExtra) # format kable tables
+library(xtable)
 ```
 
 ```{r variables, include = TRUE}
