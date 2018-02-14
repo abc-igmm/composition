@@ -12,7 +12,7 @@ stage/
 figCache/
 data/
 eddie/
-md/.bak
+src/.bak
 out/.bak
 out/pdf
 out/rds
