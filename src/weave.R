@@ -1,3 +1,5 @@
 library(knitr)
 
-system.time(knit2pdf("supp.Rnw", envir = new.env()))
+knit2pdf("supp.Rnw",
+         envir = new.env(),
+         output = "../out/supp.pdf")
