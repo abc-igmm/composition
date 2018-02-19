@@ -1,0 +1,11 @@
+dataset,from,ref,platform,id,nSamples,fracER,fracHER2,notes
+desmedt2011,geo,GSE16446,HG-U133_Plus_2,ant-p2,120,0,0.333333333,Predict efficacy anthracyclines
+expo,geo,GSE2109,HG-U133_Plus_2,exp-p2,353,0.654471545,0.268722467,expO
+finetti,geo,GSE21653,HG-U133_Plus_2,fin-p2,266,0.570342205,0.118367347,kinase
+hatzis,geo,GSE25065,HG-U133A,hat-a,198,0.624365482,0.010204082,neoadjuvant taxane-anthracycline chemotherapy in breast cancer
+inglehart2006,geo,GSE5460,HG-U133_Plus_2,ing-p2,127,0.582677165,0.236220472,Features of breast cancer
+minn2007,geo,GSE5327,HG-U133A,mas-a,58,0,NA,Sites mets Massague
+sircoulomb,geo,GSE17907,HG-U133_Plus_2,sir-p2,37,0.468085106,1,ERBB2-amplified
+smeets,geo,GSE23177,HG-U133_Plus_2,sme-p2,116,1,0,node neg/pos
+symmans,geo,GSE17705,HG-U133A,sym-a,298,1,NA,5 years of Tamoxifen
+wang2005,geo,GSE2034,HG-U133A,wng-a,286,0.730769231,NA,Reccurence Score

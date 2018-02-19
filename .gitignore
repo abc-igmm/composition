@@ -8,11 +8,5 @@
 
 ## directories
 cache/
-stage/
 figCache/
-data/
-eddie/
-src/.bak
-out/.bak
-out/pdf
-out/rds
+# data/
